@@ -2,7 +2,7 @@ import React from "react";
 
 function Return2(){
     function handleClick(e) {
-        window.location.replace("/")
+        window.location.replace("/capstone")
     }
     return(
         <button onClick = {handleClick}>
